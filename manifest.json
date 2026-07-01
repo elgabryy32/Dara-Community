@@ -1,0 +1,23 @@
+{
+  "name": "مجتمع ملاك دارة الزقازيق",
+  "short_name": "دارة الزقازيق",
+  "description": "منصة ملاك كمبوند جياد دارة الزقازيق ومتابعة الاستلامات والفحص الفني",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcf9f5",
+  "theme_color": "#b85c25",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "image_093e97.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "image_093e97.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
